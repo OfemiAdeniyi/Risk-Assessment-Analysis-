@@ -1,7 +1,10 @@
 
-# Risk Assessment Analysis 
-Risk Assessment Analysis: Analyzing loan portfolio Risk for Daiz Bank
+https://github.com/user-attachments/assets/945c3bbd-ec8e-4f3e-bc56-77fc981bb46c
+
+# Risk Assessment Analysis: Analyzing loan portfolio Risk for Daiz Bank
+
 In this project, I helped Daiz Bank to tackle its challenge of managing its vast and diverse loan portfolio. This portfolio is not just a cornerstone of the bank's success but also a critical component in safeguarding the financial well-being of countless clients.
+
 🔍 𝐃𝐚𝐢𝐳 𝐁𝐚𝐧𝐤'𝐬 𝐏𝐫𝐨𝐛𝐥𝐞𝐦:
 Daiz Bank faces a significant challenge in effectively assessing and mitigating the multifaceted risks associated with its loan portfolio. Traditional risk assessment approaches have become increasingly inefficient in today’s fast-paced economic landscape. There is an urgent need for a dynamic, data-driven approach to risk assessment that not only identifies risks but also proactively mitigates them in real time.
 
