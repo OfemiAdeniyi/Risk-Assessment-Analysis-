@@ -1,4 +1,8 @@
-Uploading Risk Assessment Analysis.mp4…
+
+
+
+https://github.com/user-attachments/assets/a04d4fcd-3fc7-4139-b5f2-95f31eaef5e1
+
 
 # Risk Assessment Analysis: Analyzing loan portfolio Risk for Daiz Bank
 
